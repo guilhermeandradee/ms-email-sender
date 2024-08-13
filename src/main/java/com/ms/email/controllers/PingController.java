@@ -8,5 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("ping")
 public class PingController {
     @RequestMapping(value = "/ping", method = RequestMethod.HEAD)
-    public void getPing(){}
+    public void getPing(){
+        System.out.println("ping-message");
+    }
 }
