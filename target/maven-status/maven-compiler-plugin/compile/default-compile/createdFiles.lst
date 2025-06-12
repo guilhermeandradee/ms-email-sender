@@ -1,0 +1,10 @@
+com\ms\email\configs\WebConfig.class
+com\ms\email\services\EmailService.class
+com\ms\email\repositories\EmailRepository.class
+com\ms\email\controllers\PingController.class
+com\ms\email\enums\StatusEmail.class
+com\ms\email\configs\RabbitMQConfig.class
+com\ms\email\consumer\EmailConsumer.class
+com\ms\email\EmailApplication.class
+com\ms\email\DTOS\EmailDTO.class
+com\ms\email\entities\EmailEntity.class

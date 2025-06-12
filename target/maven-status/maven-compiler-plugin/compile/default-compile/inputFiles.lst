@@ -1,0 +1,10 @@
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\configs\RabbitMQConfig.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\configs\WebConfig.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\consumer\EmailConsumer.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\controllers\PingController.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\DTOS\EmailDTO.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\EmailApplication.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\entities\EmailEntity.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\enums\StatusEmail.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\repositories\EmailRepository.java
+C:\Users\Gui\Desktop\ms-email-sender-main\src\main\java\com\ms\email\services\EmailService.java
